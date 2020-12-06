@@ -7,8 +7,8 @@ def hash_pw(password):
 hased = hash_pw("anish")
 print(hased)
 
-
 def de_hash(hashed):
     return(bcrypt.hashpw(hashed.decode("utf-8"), bcrypt.gensalt())
 
+           
 print(de_hash(hased))
