@@ -196,6 +196,8 @@ For example, you can use it to set up ELK stack where the services are: elastics
 
 <details>
 <summary>What is Docker Hub?</summary><br><b>
+	
+DockerHub is the storage for Docker image repositories
 </b></details>
 
 <details>
